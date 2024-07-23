@@ -1,2 +1,2 @@
 # LeetCode-problems
-In this rep I will be tracking my solved LeetCode problems.
+This repository contains my solutions to various LeetCode problems. Each problem is organized in its own directory.
