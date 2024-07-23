@@ -1,3 +1,3 @@
 # Array Problems
 
-1. [Two Sum](../problems/problem-1-two-sum/description.md)
+1. [Two Sum](../Problems/Problem-1-two-sum/description.md)
