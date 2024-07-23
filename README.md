@@ -3,8 +3,8 @@ This repository contains my solutions to various LeetCode problems in Python. Ea
 
 ## Categories
 
-- [Arrays](categories/arrays.md)
-- [Hash Tables](categories/hash-tables.md)
+- [Arrays](Categories/Arrays.md)
+- [Hash Tables](Categories/Hash-tables.md)
 - ...
 
 Feel free to explore and provide feedback!
